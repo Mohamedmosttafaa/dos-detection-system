@@ -1,0 +1,7 @@
+[2026-05-16 09:40:10] ALERT | IP Flood (General DoS) | Source IP: 192.168.198.131 | Count: 5 | Threshold: 5
+[2026-05-16 09:40:15] ALERT | IP Flood (General DoS) | Source IP: 192.168.198.131 | Count: 7 | Threshold: 5
+[2026-05-16 09:40:15] ALERT | SYN Flood Attack | Source IP: 192.168.198.131 | Count: 6 | Threshold: 5
+[2026-05-16 09:40:30] ALERT | IP Flood (General DoS) | Source IP: 192.168.198.131 | Count: 6 | Threshold: 5
+[2026-05-16 09:40:30] ALERT | SYN Flood Attack | Source IP: 192.168.198.131 | Count: 6 | Threshold: 5
+[2026-05-16 09:40:35] ALERT | IP Flood (General DoS) | Source IP: 192.168.198.131 | Count: 6 | Threshold: 5
+[2026-05-16 09:40:35] ALERT | SYN Flood Attack | Source IP: 192.168.198.131 | Count: 6 | Threshold: 5
