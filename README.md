@@ -26,4 +26,4 @@ sudo python3 dos_detector.py
 ```
 
 ## Author
-Mohamed Mosttafa | The Sparks Foundation Internship | May 2026
+Mohamed Mosttafa | May 2026
